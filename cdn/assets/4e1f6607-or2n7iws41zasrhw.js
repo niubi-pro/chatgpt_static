@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ew2y1hfm9cjziozd.js";import{cq as t,lq as n}from"./conversation-small-h0dt8bixjoe6499l.js";function r(e){n(e,[/\r?\n|\r/g,i])}function i(){return{type:`break`}}var a=e((()=>{t()})),o=e((()=>{a()}));function s(){return function(e){r(e)}}var c=e((()=>{o()})),l=e((()=>{c()}));export{s as n,l as t};
+//# sourceMappingURL=4e1f6607-or2n7iws41zasrhw.js.map

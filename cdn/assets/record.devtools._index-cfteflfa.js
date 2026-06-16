@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ew2y1hfm9cjziozd.js";import{It as t,P as n}from"./2340486e-nlxvjyp0u22lnt4y.js";import{n as r,t as i}from"./23f34471-fser0poboqyhsumr.js";var a,o,s=e((()=>{n(),i(),a=({request:e})=>{r(e)},o=t(function(){"use forget";return null})}));e((()=>{s()}))();export{a as clientLoader,o as default};
+//# sourceMappingURL=record.devtools._index-cfteflfa.js.map
