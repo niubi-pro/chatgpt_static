@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ew2y1hfm9cjziozd.js";import{at as t}from"./2340486e-nlxvjyp0u22lnt4y.js";import{n,t as r}from"./b4b33d24-z3sdv9bc2iy9o706.js";function i({zIndexKey:e,onClick:t}){return(0,a.jsx)(r,{zIndexKey:e,onClick:t,className:`bg-gray-50/50 dark:bg-black/50`})}var a,o=e((()=>{n(),a=t()}));export{o as n,i as t};
-//# sourceMappingURL=4143cd04-hyymiigsz84b9j5j.js.map

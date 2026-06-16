@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-ew2y1hfm9cjziozd.js";import{Ut as n}from"./2340486e-nlxvjyp0u22lnt4y.js";var r,i,a=e((()=>{r=t(n()),i=({root:e=void 0,rootMargin:t=`0px`,threshold:n=0,onlyOnce:i=!1})=>{let[a,o]=(0,r.useState)(!1);return[a,(0,r.useCallback)(r=>{if(!r)return;let a=new IntersectionObserver(e=>{for(let t of e)t.isIntersecting?(o(!0),i&&r&&a.unobserve(r)):o(!1)},{root:e,rootMargin:t,threshold:n});return a.observe(r),()=>{a.unobserve(r)}},[e,t,n,i])]}}));export{i as n,a as t};
-//# sourceMappingURL=5fa5a869-g1phvyqsrb8gpmm7.js.map

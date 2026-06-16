@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ew2y1hfm9cjziozd.js";import{P as t,bt as n}from"./2340486e-nlxvjyp0u22lnt4y.js";function r(e){let t=new URL(e.url);return`${a}${t.pathname.slice(6)}${t.search}`}function i({request:e}){throw n(r(e),{status:o})}var a,o;e((()=>{t(),a=`/codex/cloud`,o=307}));export{i as t};
-//# sourceMappingURL=26501f9f-k8mb0lttkq3in810.js.map

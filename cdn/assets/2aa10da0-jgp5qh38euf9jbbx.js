@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ew2y1hfm9cjziozd.js";import{Clt as t,Dut as n,Hlt as r,Tut as i,Twt as a,bTt as o,ePt as s,jlt as c,oPt as l}from"./4813494d-oxqix7hqo4jk6zjd.js";function u(){return o(()=>t().includes(i.WritingBlocksDocumentMode))}function d(){"use forget";return r(i.WritingBlocksDocumentMode)}function f(){return s(m)}function p(){return s(h)}var m,h,g=e((()=>{a(),c(),n(),l(),m=`1994998844`,h=`1101084612`}));export{d as a,u as i,f as n,p as r,g as t};
-//# sourceMappingURL=2aa10da0-jgp5qh38euf9jbbx.js.map

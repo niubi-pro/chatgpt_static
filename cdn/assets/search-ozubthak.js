@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ew2y1hfm9cjziozd.js";import{It as t,P as n,at as r,ft as i}from"./2340486e-nlxvjyp0u22lnt4y.js";var a,o,s=e((()=>{n(),a=r(),o=t(function(){return(0,a.jsx)(i,{})})}));e((()=>{s()}))();export{o as default};
-//# sourceMappingURL=search-ozubthak.js.map
