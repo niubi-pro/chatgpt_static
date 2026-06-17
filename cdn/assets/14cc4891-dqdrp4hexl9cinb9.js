@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-a3bvh9d3e42dbe8l.js";var t,n=e((()=>{t=new Intl.NumberFormat(void 0,{notation:`compact`,maximumSignificantDigits:3})}));export{n,t};
-//# sourceMappingURL=14cc4891-dqdrp4hexl9cinb9.js.map

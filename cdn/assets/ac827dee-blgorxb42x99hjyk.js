@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-a3bvh9d3e42dbe8l.js";import{FY as t,Jbt as n,PY as r,ext as i}from"./4813494d-mwv00e596sp9hdsh.js";import{i as a,t as o}from"./6afb0137-c8cyrgk1utuhwaia.js";var s,c,l=e((()=>{i(),a(),r(),s=[n,o],c=()=>e=>{t(e,`textDirective`,e=>{s.includes(e.name)||(e.type=`text`,e.value=`:${e.name}`)})}}));export{s as n,l as r,c as t};
-//# sourceMappingURL=ac827dee-blgorxb42x99hjyk.js.map

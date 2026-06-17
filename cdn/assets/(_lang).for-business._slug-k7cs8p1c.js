@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-a3bvh9d3e42dbe8l.js";import{Ft as t,It as n,N as r}from"./2340486e-fq3084fh09vi6d4t.js";import{n as i,t as a}from"./9bfdcf20-fgqrue8ictlhkt6q.js";var o,s,c=e((()=>{r(),i(),o=t(function(){return null}),s=n(a)}));e((()=>{c()}))();export{s as ErrorBoundary,o as default};
-//# sourceMappingURL=(_lang).for-business._slug-k7cs8p1c.js.map

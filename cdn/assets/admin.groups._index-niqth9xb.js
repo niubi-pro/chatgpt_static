@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-a3bvh9d3e42dbe8l.js";import{Ft as t,N as n,it as r}from"./2340486e-nw4jqtc9h6fcal3g.js";import{n as i,t as a}from"./8c6976e5-mj83cv2ogz88tv21.js";import{n as o,t as s}from"./16d1957c-kz3k1uz5mtahero1.js";var c,l,u=e((()=>{n(),o(),a(),c=r(),l=t(function(){return(0,c.jsx)(s,{...i()})})}));e((()=>{u()}))();export{l as default};
+//# sourceMappingURL=admin.groups._index-niqth9xb.js.map
