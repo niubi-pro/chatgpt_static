@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-k2af4ickchb9p3hr.js";import{Ji as t,Yi as n}from"./c2675c8c-b7r5bm1weuro6522.js";e((()=>{n()}))();export{t as default};
-//# sourceMappingURL=create-workspace-gotbfbnt.js.map

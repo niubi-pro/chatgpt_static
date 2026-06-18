@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-k2af4ickchb9p3hr.js";function t(e){return e?.filter(e=>!e.predefined_role)}function n(e,t,n=e=>e.name){let r=t.trim().toLowerCase();return e?.filter(e=>n(e).toLowerCase().includes(r)||(e.description?.toLowerCase().includes(r)??!1))}var r=e((()=>{}));export{n,r,t};
-//# sourceMappingURL=c8db4812-h5rl6kzpv9r8n6tk.js.map

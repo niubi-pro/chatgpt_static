@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-mza1icqz0pb477ll.js";import{$dt as t,Ydt as n}from"./4813494d-e9r74y9yw5r0jkb3.js";import{Ft as r,N as i,it as a,wt as o}from"./2340486e-mthtkvzhzdssjwmn.js";import{i as s,t as c}from"./371da970-bc5tz6ziea0bcqzy.js";var l,u,d,f=e((()=>{i(),t(),s(),l=a(),u=n,d=r(function(){let{gizmoId:e,project:t}=o();return(0,l.jsx)(c,{gizmoId:e,initialProjectResource:t})})}));e((()=>{f()}))();export{d as default,u as meta};
+//# sourceMappingURL=g.health-ercijatt.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-mza1icqz0pb477ll.js";function t(e){let t=new URLSearchParams(e);return t.set(i,a),t.toString()}function n(e,t){let n=new URLSearchParams(e);return n.set(i,a),n.set(o,t),n.toString()}function r(e,t){let n=new URLSearchParams(t);n.delete(i),n.delete(o),e({search:n.toString()},{replace:!0})}var i,a,o,s=e((()=>{i=`view`,a=`curate`,o=`taskId`}));export{r as a,t as i,a as n,s as o,i as r,n as s,o as t};
+//# sourceMappingURL=a17f0736-bze2z4yctxook0kn.js.map

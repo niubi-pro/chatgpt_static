@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-k2af4ickchb9p3hr.js";import{Ft as t,G as n,N as r,it as i}from"./2340486e-h05fykemgqs4xnqx.js";import{n as a,r as o}from"./57943189-oqdoxmkcfd5goezs.js";var s,c,l,u,d=e((()=>{r(),s=n(),o(),c=i(),l=()=>[{title:`Codex`}],u=t(function(){"use forget";let e=(0,s.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,c.jsx)(a,{}),e[0]=t):t=e[0],t})}));e((()=>{d()}))();export{u as default,l as meta};
-//# sourceMappingURL=codex.cloud.settings.data-ipbgl1yn.js.map

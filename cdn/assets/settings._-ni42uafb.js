@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-mza1icqz0pb477ll.js";import{Ft as t,N as n}from"./2340486e-mthtkvzhzdssjwmn.js";var r,i=e((()=>{n(),r=t(function(){"use forget";return null})}));e((()=>{i()}))();export{r as default};
+//# sourceMappingURL=settings._-ni42uafb.js.map

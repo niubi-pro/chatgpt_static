@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-mza1icqz0pb477ll.js";import{Ft as t,N as n,it as r}from"./2340486e-mthtkvzhzdssjwmn.js";import{r as i,t as a}from"./ec722179-duahambhoq8679gi.js";var o,s,c=e((()=>{n(),i(),o=r(),s=t(function(){return(0,o.jsx)(a,{})})}));e((()=>{c()}))();export{s as default};
+//# sourceMappingURL=business-free-workspace-pcp0xqgq.js.map

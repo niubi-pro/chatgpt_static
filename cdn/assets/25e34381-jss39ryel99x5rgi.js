@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-mza1icqz0pb477ll.js";import{X1 as t,Y1 as n,fkt as r,pkt as i,t0 as a}from"./4813494d-e9r74y9yw5r0jkb3.js";function o(e){r.logStructuredEvent(t,e)}function s(e){r.logStructuredEvent(n,{...e})}var c=e((()=>{a(),i()}));export{s as n,o as r,c as t};
+//# sourceMappingURL=25e34381-jss39ryel99x5rgi.js.map
