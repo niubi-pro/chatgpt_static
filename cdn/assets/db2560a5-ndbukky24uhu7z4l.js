@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-a3bvh9d3e42dbe8l.js";var t,n=e((()=>{t=({defaultPlatform:e,locale:t,searchParams:n,workspace:r})=>({country:n.get(`country`),platform:n.get(`platform`)??e??null,locale:n.get(`locale`)??t,...r===void 0?{}:{workspace:r}})}));export{n,t};
-//# sourceMappingURL=db2560a5-ndbukky24uhu7z4l.js.map

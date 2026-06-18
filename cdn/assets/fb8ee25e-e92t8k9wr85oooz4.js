@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-a3bvh9d3e42dbe8l.js";var t,n,r,i,a,o=e((()=>{t=`chatgpt`,n=`chatgpt-alt`,r=`oauth_complete`,i=`ms-windows-store://pdp/?productid=9nt1r1c2hh7j`,a=`https://apps.microsoft.com/detail/9nt1r1c2hh7j`}));export{i as a,o as i,t as n,a as o,r,n as t};
-//# sourceMappingURL=fb8ee25e-e92t8k9wr85oooz4.js.map

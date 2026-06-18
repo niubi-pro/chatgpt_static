@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-k2af4ickchb9p3hr.js";import{it as t}from"./2340486e-h05fykemgqs4xnqx.js";function n(){return(0,r.jsx)(`hr`,{className:`border-token-border-xheavy w-full`})}var r,i=e((()=>{r=t()}));export{i as n,n as t};
+//# sourceMappingURL=e14a92db-gksuult410zhgn1l.js.map

@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-a3bvh9d3e42dbe8l.js";import{vwt as t,ywt as n}from"./4813494d-k5pp8mdp49zw0plg.js";var r,i,a=e((()=>{n(),r=[`midi`,`microphone`,`local-network-access`],i=(e,n)=>{let i=[];return e&&i.push(...r),n.distributionChannel===t.OPENAI&&i.push(`clipboard-read`,`clipboard-write`,`microphone`,`camera`,`local-network-access`,`web-share`,`fullscreen`),Array.from(new Set(i))}}));export{a as n,i as t};
-//# sourceMappingURL=67fb493c-b5mzqcqnfu6dr16m.js.map

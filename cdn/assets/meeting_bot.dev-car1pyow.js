@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-a3bvh9d3e42dbe8l.js";import{Ft as t,G as n,N as r,it as i,wt as a}from"./2340486e-nw4jqtc9h6fcal3g.js";var o,s,c=e((()=>{r(),o=n(),i(),s=t(function(){"use forget";(0,o.c)(7);let{grant:e,error:t}=a();return null})}));e((()=>{c()}))();export{s as default};
-//# sourceMappingURL=meeting_bot.dev-car1pyow.js.map

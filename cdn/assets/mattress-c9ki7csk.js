@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-k2af4ickchb9p3hr.js";import{Ft as t,N as n,yt as r}from"./2340486e-h05fykemgqs4xnqx.js";function i(e){return`${a}${new URL(e.url).search}`}var a,o,s,c=e((()=>{n(),a=`/finances`,o=({request:e})=>{throw r(i(e))},s=t(function(){"use forget";return null})}));e((()=>{c()}))();export{o as clientLoader,s as default};
+//# sourceMappingURL=mattress-c9ki7csk.js.map
