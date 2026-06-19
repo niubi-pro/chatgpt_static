@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-mza1icqz0pb477ll.js";import{N as t,gt as n}from"./2340486e-mthtkvzhzdssjwmn.js";var r,i,a,o=e((()=>{t(),r=e=>e!=null&&e.length>1?e.at(-1)?.id??null:null,i=e=>n(`/files/:id?`,{id:r(e)}),a=({skillId:e,recursiveParents:t})=>n(`/skills/:skillId/files/:id?`,{skillId:e,id:r(t)})}));export{a as n,o as r,i as t};
+//# sourceMappingURL=a22a21f3-ddd3mqukmlmn5gct.js.map

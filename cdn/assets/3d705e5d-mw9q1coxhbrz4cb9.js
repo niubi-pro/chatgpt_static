@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-mza1icqz0pb477ll.js";import{SLt as t,gLt as n}from"./4813494d-e9r74y9yw5r0jkb3.js";function r(e){let t=e?.beta_settings?.[i];return typeof t==`boolean`?t:!n(a)}var i,a,o=e((()=>{t(),i=`allow_scim_group_sharing_for_projects_and_gpts`,a=`809030179`}));export{o as n,r,i as t};
-//# sourceMappingURL=3d705e5d-mw9q1coxhbrz4cb9.js.map
