@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-mza1icqz0pb477ll.js";import{Ft as t,It as n,N as r}from"./2340486e-mthtkvzhzdssjwmn.js";import{n as i,t as a}from"./9bfdcf20-furajidlyluniry4.js";var o,s,c=e((()=>{r(),i(),o=t(function(){"use forget";return null}),s=n(a)}));e((()=>{c()}))();export{s as ErrorBoundary,o as default};
-//# sourceMappingURL=certified-iza5ugrn.js.map

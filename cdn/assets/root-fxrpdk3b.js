@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-mza1icqz0pb477ll.js";import{i as t,n,r,t as i}from"./4813494d-e9cl4qs7wb1kdyme.js";e((()=>{i()}))();export{r as default,n as meta,t as shouldRevalidate};
+//# sourceMappingURL=root-fxrpdk3b.js.map
