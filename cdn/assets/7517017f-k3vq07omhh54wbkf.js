@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ko8sff8svrmu7rmh.js";var t,n,r,i=e((()=>{t=`max-w-8xl mx-auto grid w-full grid-cols-12 px-5 md:px-0`,n=`full-grid-content:md:col-span-12 full-grid-content:md:col-start-1 text-mkt-p1 col-span-12 md:col-span-6 md:col-start-4`,r={small:/\[small](.*?)\[\/small]/gi,br:/(\[br])/gi}}));export{i,n,r,t};
+//# sourceMappingURL=7517017f-k3vq07omhh54wbkf.js.map

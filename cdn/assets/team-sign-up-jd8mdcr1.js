@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ko8sff8svrmu7rmh.js";import{R as t,z as n}from"./c2675c8c-by1iyclk9qju7vi3.js";e((()=>{t()}))();export{n as default};
+//# sourceMappingURL=team-sign-up-jd8mdcr1.js.map
