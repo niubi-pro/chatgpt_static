@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-c2ty6oa83hds1grw.js";import{It as t,N as n,it as r}from"./2340486e-fm6vpd3xdgtt8itu.js";import{a as i,o as a}from"./8b34dbc2-jgimwdwiucsnu7f5.js";var o,s,c,l=e((()=>{n(),a(),o=r(),s=()=>[{title:`New Tab`}],c=t(function(){return(0,o.jsx)(i,{})})}));e((()=>{l()}))();export{c as default,s as meta};
-//# sourceMappingURL=new-tab-page-lish48oh.js.map
