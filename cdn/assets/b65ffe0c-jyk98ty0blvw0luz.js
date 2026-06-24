@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-ko8sff8svrmu7rmh.js";import{Bt as n}from"./2340486e-ljjpmko60nxc1fbv.js";function r(){return o||(o=document.createElement(`div`),o.setAttribute(`portal-container`,``),document.body.append(o)),o||null}function i(e){let{children:t}=e,n=r();return n&&a.createPortal(t,n)}var a,o,s=e((()=>{a=t(n()),o=null}));export{s as n,i as t};
-//# sourceMappingURL=b65ffe0c-jyk98ty0blvw0luz.js.map

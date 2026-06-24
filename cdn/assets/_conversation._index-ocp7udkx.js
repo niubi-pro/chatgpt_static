@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ko8sff8svrmu7rmh.js";import{n as t,r as n,t as r}from"./conversation-small-bbsih7dl3jg6u0un.js";e((()=>{n()}))();export{t as clientLoader,r as default};
-//# sourceMappingURL=_conversation._index-ocp7udkx.js.map

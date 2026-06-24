@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ko8sff8svrmu7rmh.js";import{Ft as t,N as n,yt as r}from"./2340486e-ljjpmko60nxc1fbv.js";function i(e){let t=new URL(e.url);return`${t.pathname.replace(/^\/buy(?=\/|$)/,`/purchase`)}${t.search}`}var a,o,s=e((()=>{n(),a=({request:e})=>{throw r(i(e))},o=t(function(){"use forget";return null})}));e((()=>{s()}))();export{a as clientLoader,o as default};
-//# sourceMappingURL=buy._planType-k98sy4by.js.map

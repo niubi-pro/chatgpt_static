@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ko8sff8svrmu7rmh.js";import{Ft as t,N as n,dt as r,it as i}from"./2340486e-ljjpmko60nxc1fbv.js";var a,o,s=e((()=>{n(),a=i(),o=t(function(){return(0,a.jsx)(r,{})})}));e((()=>{s()}))();export{o as default};
-//# sourceMappingURL=search-h7fgf4e5.js.map

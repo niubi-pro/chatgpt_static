@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ko8sff8svrmu7rmh.js";import{Ft as t,N as n,yt as r}from"./2340486e-ljjpmko60nxc1fbv.js";function i(e){return`${a}${new URL(e.url).search}`}var a,o,s,c=e((()=>{n(),a=`/finances`,o=({request:e})=>{throw r(i(e))},s=t(function(){"use forget";return null})}));e((()=>{c()}))();export{o as clientLoader,s as default};
-//# sourceMappingURL=finance-f9r33ddv.js.map
