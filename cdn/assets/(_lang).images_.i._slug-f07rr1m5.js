@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ivtosiaxwpd7iovv.js";import{It as t,N as n}from"./2340486e-ctgm1jysd236p265.js";var r,i=e((()=>{n(),r=t(function(){"use forget";return null})}));e((()=>{i()}))();export{r as default};
+//# sourceMappingURL=(_lang).images_.i._slug-f07rr1m5.js.map
