@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-c2ty6oa83hds1grw.js";import{la as t,ua as n}from"./c2675c8c-fj6r9qn2k3xumxnp.js";e((()=>{n()}))();export{t as default};
+//# sourceMappingURL=create-workspace-dmugcanz.js.map

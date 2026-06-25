@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-c2ty6oa83hds1grw.js";import{i as t,n,r,t as i}from"./4813494d-k0yxv0rj46ea4u5x.js";e((()=>{i()}))();export{r as default,n as meta,t as shouldRevalidate};
+//# sourceMappingURL=root-grcp3ilo.js.map

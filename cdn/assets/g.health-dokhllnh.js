@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-c2ty6oa83hds1grw.js";import{mht as t,uht as n}from"./4813494d-k0yxv0rj46ea4u5x.js";import{It as r,N as i,Tt as a,it as o}from"./2340486e-fm6vpd3xdgtt8itu.js";import{i as s,t as c}from"./371da970-m0p4h5gdtwdck9vz.js";var l,u,d,f=e((()=>{i(),t(),s(),l=o(),u=n,d=r(function(){let{gizmoId:e,project:t}=a();return(0,l.jsx)(c,{gizmoId:e,initialProjectResource:t})})}));e((()=>{f()}))();export{d as default,u as meta};
+//# sourceMappingURL=g.health-dokhllnh.js.map

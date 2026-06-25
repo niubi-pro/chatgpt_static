@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-c2ty6oa83hds1grw.js";import{Ttt as n,Vtt as r,Wtt as i,cUt as a,hMt as o,lUt as s,ujt as c}from"./4813494d-k0yxv0rj46ea4u5x.js";import{Ut as l}from"./2340486e-fm6vpd3xdgtt8itu.js";function u(){let e=a(),t=(0,d.useMemo)(()=>new n(e),[e]);return{composerController:t,isComposerEmpty:o(()=>i(t))}}var d,f=e((()=>{r(),s(),c(),d=t(l())}));export{u as n,f as t};
+//# sourceMappingURL=22bcb108-c7gkwir2y9xjmckx.js.map
