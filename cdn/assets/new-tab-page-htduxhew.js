@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-hc3huls167g54mnz.js";import{It as t,N as n,it as r}from"./2340486e-rg57ecs3f6y5pqdv.js";import{a as i,o as a}from"./8b34dbc2-my4pwgt7dvi1944p.js";var o,s,c,l=e((()=>{n(),a(),o=r(),s=()=>[{title:`New Tab`}],c=t(function(){return(0,o.jsx)(i,{})})}));e((()=>{l()}))();export{c as default,s as meta};
-//# sourceMappingURL=new-tab-page-htduxhew.js.map

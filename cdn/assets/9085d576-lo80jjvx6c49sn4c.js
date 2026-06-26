@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";function t(e){return`${n}${e}`}var n,r=e((()=>{n=`https://chatgpt.com/canvas/shared/`}));export{t as n,r,n as t};
+//# sourceMappingURL=9085d576-lo80jjvx6c49sn4c.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";function t(e){if(typeof e!=`string`)return null;let t=e.match(r);return t?{mimeType:t[1],dataUrl:e}:null}function n(e){return t(e)!=null}var r,i=e((()=>{r=/^data:(image\/[^;,]+)(?:;[^,]*)?,/}));export{n,i as t};
+//# sourceMappingURL=5422a199-olb2m40ez7ocatqw.js.map
