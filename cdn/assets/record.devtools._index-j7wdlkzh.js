@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ivtosiaxwpd7iovv.js";import{It as t,N as n}from"./2340486e-ctgm1jysd236p265.js";import{n as r,t as i}from"./23f34471-ds7tx6e681da2n8u.js";var a,o,s=e((()=>{n(),i(),a=({request:e})=>{r(e)},o=t(function(){"use forget";return null})}));e((()=>{s()}))();export{a as clientLoader,o as default};
-//# sourceMappingURL=record.devtools._index-j7wdlkzh.js.map
