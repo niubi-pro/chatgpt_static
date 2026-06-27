@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";import{n as t,t as n}from"./85299807-db87yiet7qsqhqn9.js";e((()=>{n()}))();export{t as default};
+//# sourceMappingURL=security-settings-eyvu4598.js.map
