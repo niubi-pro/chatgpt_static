@@ -1,3 +1,0 @@
-import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";import{UOt as t,qOt as n}from"./4813494d-o3yj6t7j0s02zmkp.js";function r({createKey:e,directoryId:n}){return t.safePost(`/files/library/files/inline-content`,{requestBody:{file_name:i,content:`
-`,create_key:e,...n!=null&&{directory_id:n},library_file_info:{library_artifact_type:`writing_block`}}})}var i,a=e((()=>{n(),i=`Untitled.md`}));export{r as n,a as r,i as t};
-//# sourceMappingURL=b45ddf47-jzce8xe7ycq8p0y5.js.map

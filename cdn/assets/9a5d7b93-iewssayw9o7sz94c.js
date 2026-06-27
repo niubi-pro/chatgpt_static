@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";function t(e){return e?.find(e=>e.enforcement_mode===`HARD_CAP`)?.limit??null}var n=e((()=>{}));export{n,t};
-//# sourceMappingURL=9a5d7b93-iewssayw9o7sz94c.js.map

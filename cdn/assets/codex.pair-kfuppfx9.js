@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";import{a as t,i as n,n as r,r as i,t as a}from"./759785df-n6zffpy6utc0zr6f.js";e((()=>{n()}))();export{a as ErrorBoundary,r as default,i as handle,t as meta};
-//# sourceMappingURL=codex.pair-kfuppfx9.js.map

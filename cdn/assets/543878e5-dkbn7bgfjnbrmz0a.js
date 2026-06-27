@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";function t(e){return`/admin/usage-limits/${e}`}function n(e){switch(e){case`workspace`:case`groups`:case`users`:case`pending-requests`:return e;default:return i}}var r,i,a=e((()=>{r=[`workspace`,`groups`,`users`,`pending-requests`],i=`workspace`}));export{a as i,t as n,n as r,r as t};
+//# sourceMappingURL=543878e5-dkbn7bgfjnbrmz0a.js.map
