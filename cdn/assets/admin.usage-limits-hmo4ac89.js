@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";import{n as t,t as n}from"./90a39c8d-hrhu5zpstgdjyk6o.js";e((()=>{t()}))();export{n as default};
+//# sourceMappingURL=admin.usage-limits-hmo4ac89.js.map

@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";import{Ubt as t,qbt as n}from"./4813494d-mgohi2gmwf6pgov5.js";import{It as r,N as i,Tt as a,it as o}from"./2340486e-cujl6rtgtlvfi845.js";import{i as s,t as c}from"./371da970-g20idqfpsz82u0mx.js";var l,u,d,f=e((()=>{i(),n(),s(),l=o(),u=t,d=r(function(){let{gizmoId:e,project:t}=a();return(0,l.jsx)(c,{gizmoId:e,initialProjectResource:t})})}));e((()=>{f()}))();export{d as default,u as meta};
-//# sourceMappingURL=g.health-dyo0yae9.js.map

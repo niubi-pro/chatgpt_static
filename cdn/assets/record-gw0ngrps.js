@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";import{It as t,N as n}from"./2340486e-cujl6rtgtlvfi845.js";import{n as r,t as i}from"./23f34471-m0aod0ac5lvaymrz.js";var a,o,s=e((()=>{n(),i(),a=({request:e})=>{r(e)},o=t(function(){"use forget";return null})}));e((()=>{s()}))();export{a as clientLoader,o as default};
-//# sourceMappingURL=record-gw0ngrps.js.map
