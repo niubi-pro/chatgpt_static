@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";import{n as t,t as n}from"./14368a4e-cgauxhlcokpr8m7p.js";var r=e((()=>{t()}));e((()=>{r()}))();export{n as default};
-//# sourceMappingURL=data-controls-settings-hxseegp1.js.map

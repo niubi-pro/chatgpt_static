@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";import{i as t,n,r,t as i}from"./8b34dbc2-bmfzr15s9z361ozn.js";e((()=>{r()}))();export{n as clientLoader,i as default,t as shouldRevalidate};
-//# sourceMappingURL=_conversation-hwdk9tki.js.map

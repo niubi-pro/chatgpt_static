@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";import{Cxt as t,Dxt as n}from"./4813494d-hcygn6dw6erjxjzu.js";import{It as r,N as i,Tt as a,it as o}from"./2340486e-cujl6rtgtlvfi845.js";import{i as s,t as c}from"./371da970-hv48oqvzgc5ivneb.js";var l,u,d,f=e((()=>{i(),n(),s(),l=o(),u=t,d=r(function(){let{gizmoId:e,project:t}=a();return(0,l.jsx)(c,{gizmoId:e,initialProjectResource:t})})}));e((()=>{f()}))();export{d as default,u as meta};
+//# sourceMappingURL=g.health-hetjelto.js.map
