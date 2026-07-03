@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-j85anjgntg18vv4l.js";import{It as t,N as n,it as r}from"./2340486e-abgx8ys67f44tinz.js";import{a as i,o as a}from"./8b34dbc2-blbndxhb38dp3riu.js";var o,s,c,l=e((()=>{n(),a(),o=r(),s=()=>[{title:`New Tab`}],c=t(function(){return(0,o.jsx)(i,{})})}));e((()=>{l()}))();export{c as default,s as meta};
+//# sourceMappingURL=new-tab-page-ly67ntax.js.map

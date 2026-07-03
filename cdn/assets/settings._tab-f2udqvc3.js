@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";import{It as t,N as n}from"./2340486e-cujl6rtgtlvfi845.js";var r,i=e((()=>{n(),r=t(function(){"use forget";return null})}));e((()=>{i()}))();export{r as default};
-//# sourceMappingURL=settings._tab-f2udqvc3.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-j85anjgntg18vv4l.js";var t,n,r,i=e((()=>{t=`TyagGW_tableContainer`,n=`TyagGW_tableWrapper`,r={tableContainer:t,tableWrapper:n}}));export{r as n,i as t};
+//# sourceMappingURL=b7675d69-fla8fv4k18x5yma6.js.map

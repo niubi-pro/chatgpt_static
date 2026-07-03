@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";var t,n=e((()=>{t=[`area`,`base`,`basefont`,`bgsound`,`br`,`col`,`command`,`embed`,`frame`,`hr`,`image`,`img`,`input`,`keygen`,`link`,`meta`,`param`,`source`,`track`,`wbr`]}));export{n,t};
-//# sourceMappingURL=5798741d-e2h61xlkjk2forrh.js.map

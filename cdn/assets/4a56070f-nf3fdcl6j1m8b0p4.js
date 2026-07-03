@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";var t,n=e((()=>{t=({mode:e,onSelectFiles:t})=>{let n=document.createElement(`input`);n.type=`file`,n.multiple=!0,n.className=`hidden`,e===`folder`&&n.setAttribute(`webkitdirectory`,`true`),n.onchange=()=>{let e=n.files;document.body.removeChild(n),!(e==null||e.length===0)&&t(Array.from(e))},document.body.appendChild(n),n.click()}}));export{t as n,n as t};
-//# sourceMappingURL=4a56070f-nf3fdcl6j1m8b0p4.js.map

@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-k9k2urgxtm157sx7.js";import{n as t,t as n}from"./e590b368-n0uf3248m7smarrq.js";e((()=>{t()}))();export{n as default};
-//# sourceMappingURL=connector_platform_oauth_redirect-g252w7h3.js.map
