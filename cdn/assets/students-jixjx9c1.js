@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-j85anjgntg18vv4l.js";import{It as t,Lt as n,N as r}from"./2340486e-abgx8ys67f44tinz.js";import{n as i,t as a}from"./9bfdcf20-lqz33yvq5g9tke9n.js";var o,s,c=e((()=>{r(),i(),o=t(function(){return null}),s=n(a)}));e((()=>{c()}))();export{s as ErrorBoundary,o as default};
-//# sourceMappingURL=students-jixjx9c1.js.map

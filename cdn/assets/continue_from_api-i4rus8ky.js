@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-j85anjgntg18vv4l.js";import{eJt as n,nJt as r}from"./4813494d-gm6qwkx8b6mvh8c3.js";import{It as i,N as a,Ut as o,kt as s}from"./2340486e-abgx8ys67f44tinz.js";var c,l,u=e((()=>{a(),r(),c=t(o()),l=i(function(){let e=s();return(0,c.useEffect)(()=>{n.addError(`This page should never be rendered.`),e(`/`)},[e]),null})}));e((()=>{u()}))();export{l as default};
-//# sourceMappingURL=continue_from_api-i4rus8ky.js.map
