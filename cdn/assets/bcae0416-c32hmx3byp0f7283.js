@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-moe967y6q7zf9m0f.js";import{$9 as n,tet as r}from"./4813494d-d3kfrpmexslvuu3l.js";import{Ut as i,it as a}from"./2340486e-nhvp42933ikxqdtw.js";var o,s,c,l,u=e((()=>{o=t(i(),1),r(),s=a(),c=`Label`,l=o.forwardRef((e,t)=>(0,s.jsx)(n.label,{...e,ref:t,onMouseDown:t=>{t.target.closest(`button, input, select, textarea`)||(e.onMouseDown?.(t),!t.defaultPrevented&&t.detail>1&&t.preventDefault())}})),l.displayName=c}));export{u as n,l as t};
+//# sourceMappingURL=bcae0416-c32hmx3byp0f7283.js.map

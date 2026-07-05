@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";import{EJt as t,xJt as n}from"./4813494d-d3kfrpmexslvuu3l.js";function r(e){return e instanceof n&&typeof e.detail==`object`&&`error_type`in e.detail&&`message`in e.detail?{error_type:e.detail.error_type,message:e.detail.message}:null}var i=e((()=>{t()}));export{i as n,r as t};
+//# sourceMappingURL=62b1bc77-d7oht7ucysf7gxsj.js.map
