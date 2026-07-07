@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";function t(e,t,n){let r=n?.trim();r==null||r.length===0||e.searchParams.set(t,r)}function n({originUrl:e,path:n,prompt:r}){let a=new URL(i);return t(a,`prompt`,r),t(a,`originUrl`,e),t(a,`path`,n),[...a.searchParams.keys()].length===0?null:a.toString()}function r(e){window.location.assign(e)}var i,a=e((()=>{i=`codex://new`}));export{a as n,r,n as t};
-//# sourceMappingURL=6313cbac-fya3yp3ks9hzt048.js.map

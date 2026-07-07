@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";var t,n,r,i=e((()=>{t=`#DFC8FE`,n=`bg-[#DFC8FE]`,r=`font-oai text-[48px] leading-[1.14] font-medium tracking-[-0.02em] md:text-[100px] md:leading-none md:font-normal`}));export{i,n,r,t};
+//# sourceMappingURL=f75c6596-ij3npyyamit6vvxi.js.map

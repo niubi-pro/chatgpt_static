@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";function t(e){let t,n=r=>{r>0&&(e.focus({preventScroll:!0}),document.activeElement!==e&&(t=requestAnimationFrame(()=>n(r-1))))};return n(10),()=>cancelAnimationFrame(t)}var n=e((()=>{}));export{n,t};
-//# sourceMappingURL=c51faa14-6iy56k8d12joz0ak.js.map

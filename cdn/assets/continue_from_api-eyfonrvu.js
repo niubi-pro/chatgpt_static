@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-moe967y6q7zf9m0f.js";import{aJt as n,sJt as r}from"./4813494d-d3kfrpmexslvuu3l.js";import{It as i,N as a,Ut as o,kt as s}from"./2340486e-nhvp42933ikxqdtw.js";var c,l,u=e((()=>{a(),r(),c=t(o()),l=i(function(){let e=s();return(0,c.useEffect)(()=>{n.addError(`This page should never be rendered.`),e(`/`)},[e]),null})}));e((()=>{u()}))();export{l as default};
-//# sourceMappingURL=continue_from_api-eyfonrvu.js.map
