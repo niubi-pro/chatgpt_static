@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";import{a as t,i as n,n as r,r as i,t as a}from"./45e797a6-bau2tpqxkrnx3kjk.js";e((()=>{n()}))();export{a as ErrorBoundary,r as default,i as handle,t as meta};
-//# sourceMappingURL=contentful-codex-custom-page-bclgeb0z.js.map

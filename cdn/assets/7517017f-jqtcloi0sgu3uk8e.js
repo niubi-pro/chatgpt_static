@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";var t,n,r,i,a=e((()=>{t=`https://help.openai.com/en/articles/10847137`,n=`https://help.openai.com/en/articles/10929079`,r=`https://help.openai.com/en/articles/10847137-internal-knowledge-on-chatgpt-faq#h_cdbef125bf`,i=`https://support.google.com/cloudidentity/answer/182080`}));export{a,n as i,t as n,i as r,r as t};
+//# sourceMappingURL=7517017f-jqtcloi0sgu3uk8e.js.map

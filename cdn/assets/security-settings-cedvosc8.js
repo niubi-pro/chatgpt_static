@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";import{n as t,t as n}from"./85299807-en67rpgcrotq7d6m.js";e((()=>{n()}))();export{t as default};
-//# sourceMappingURL=security-settings-cedvosc8.js.map

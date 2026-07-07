@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";import{It as t,N as n,it as r}from"./2340486e-nhvp42933ikxqdtw.js";import{n as i,t as a}from"./8c6976e5-h1k03tqn7nl82w0p.js";import{n as o,t as s}from"./16d1957c-nrz3ybbn3jpdoxbv.js";var c,l,u=e((()=>{n(),o(),a(),c=r(),l=t(function(){return(0,c.jsx)(s,{...i()})})}));e((()=>{u()}))();export{l as default};
-//# sourceMappingURL=admin.groups._index-bx4qr7uj.js.map
