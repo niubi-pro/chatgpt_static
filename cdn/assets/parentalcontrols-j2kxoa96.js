@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-moe967y6q7zf9m0f.js";import{Cq as n,Nq as r,Pq as i}from"./4813494d-l1co0nu8zb1qggsq.js";import{N as a,Ut as o,dt as s,it as c}from"./2340486e-nu9db7hlo3lpy6nx.js";var l,u,d=e((()=>{a(),i(),l=t(o()),u=s(function(){let e=c();return(0,l.useEffect)(()=>{e({pathname:`/`,...r(n.ParentalControls)},{replace:!0})},[e]),null})}));e((()=>{d()}))();export{u as default};
-//# sourceMappingURL=parentalcontrols-j2kxoa96.js.map

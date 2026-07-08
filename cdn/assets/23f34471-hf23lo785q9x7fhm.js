@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";import{J as t,N as n}from"./2340486e-nu9db7hlo3lpy6nx.js";function r(e){let t=new URL(e.url),n=``;return t.pathname.startsWith(o)?n=t.pathname.slice(16):t.pathname.startsWith(a)&&(n=t.pathname.slice(7)),`${s}${n}${t.search}`}function i(e){throw t(r(e),{status:c})}var a,o,s,c,l=e((()=>{n(),a=`/record`,o=`/record/meetings`,s=`/meetings`,c=308}));export{i as n,l as t};
+//# sourceMappingURL=23f34471-hf23lo785q9x7fhm.js.map

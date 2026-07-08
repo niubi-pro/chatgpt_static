@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";var t,n,r,i,a,o=e((()=>{t=`https://chatgpt.com/support`,n=`https://wa.me/message/DB7L3M6A4NOYA1`,r=`https://wa.me/message/7UNSEO7RBZLWI1`,i=function(e){return e.Cancel=`cancel`,e.Allow=`allow`,e}({}),a=function(e){return e.Authenticate=`authenticate`,e.LinkAccount=`link_account`,e}({})}));export{r as a,n as i,a as n,o,i as r,t};
-//# sourceMappingURL=a0af22f2-omfj5axlpwtin0xm.js.map

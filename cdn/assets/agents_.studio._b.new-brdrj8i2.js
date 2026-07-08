@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-moe967y6q7zf9m0f.js";import{N as n,Ut as r,bt as i,dt as a}from"./2340486e-nu9db7hlo3lpy6nx.js";import{f as o,t as s}from"./5579e947-k2i1tqrdvh2d8o70.js";function c(){s.setSidebarView(`fullscreen-landing`)}var l,u,d,f=e((()=>{n(),l=i(),o(),u=t(r()),d=a(function(){"use forget";let e=(0,l.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=[],e[0]=t):t=e[0],(0,u.useEffect)(c,t),null})}));e((()=>{f()}))();export{d as default};
+//# sourceMappingURL=agents_.studio._b.new-brdrj8i2.js.map
