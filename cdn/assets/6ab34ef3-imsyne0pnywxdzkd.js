@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";import{TXt as t}from"./4813494d-kgl7szihpk0jdi28.js";import{pu as n,uu as r}from"./c2675c8c-hvbukrdkhsuq4jco.js";function i(e){if(e instanceof r)return e.payload.message;let t=e?.message??``;return t.trim().startsWith(`500`)?`Internal server error. Check console for details.`:t.length>140?t.slice(0,140)+`...`:t}var a=e((()=>{t(),n()}));export{a as n,i as t};
+//# sourceMappingURL=6ab34ef3-imsyne0pnywxdzkd.js.map

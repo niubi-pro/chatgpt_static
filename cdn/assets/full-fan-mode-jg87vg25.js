@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";import{N as t,dt as n,ft as r}from"./2340486e-nu9db7hlo3lpy6nx.js";import{n as i,t as a}from"./9bfdcf20-odw91mura58uiwqa.js";var o,s,c=e((()=>{t(),i(),o=n(function(){return null}),s=r(a)}));e((()=>{c()}))();export{s as ErrorBoundary,o as default};
-//# sourceMappingURL=full-fan-mode-jg87vg25.js.map
