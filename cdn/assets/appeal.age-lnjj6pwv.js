@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";import{N as t,dt as n}from"./2340486e-nu9db7hlo3lpy6nx.js";var r,i=e((()=>{t(),r=n(function(){return null})}));e((()=>{i()}))();export{r as default};
-//# sourceMappingURL=appeal.age-lnjj6pwv.js.map

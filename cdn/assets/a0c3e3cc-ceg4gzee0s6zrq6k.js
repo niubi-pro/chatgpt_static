@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-moe967y6q7zf9m0f.js";import{$It as t,BLt as n,YIt as r,dLt as i,fLt as a,gEt as o,mEt as s,nLt as c,rLt as l}from"./4813494d-kgl7szihpk0jdi28.js";function u(e){let t=s()?.normalizedAccountUserId;t!=null&&n(()=>{d.set(t,t=>({...t,[e]:Math.min((t[e]??0)+1,2**53-1)}))})}var d,f,p=e((()=>{r(),o(),i(),d=l(e=>c({})),f=t(()=>{let e=s()?.normalizedAccountUserId;return e==null?[]:Object.entries(d(e)).sort((e,t)=>t[1]-e[1]).map(([e])=>e)},{equals:a})}));export{f as n,u as r,p as t};
-//# sourceMappingURL=a0c3e3cc-ceg4gzee0s6zrq6k.js.map

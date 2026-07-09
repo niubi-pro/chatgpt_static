@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-nfv3yx8yna1zxcro.js";import{Bt as t,zt as n}from"./2340486e-fbp2mosr6aopdf1u.js";var r,i=e((()=>{t(),r=n({planName:{id:`CheckoutSummary.sophiaPlanName`,defaultMessage:`Sophia`},heading:{id:`CheckoutSummary.headingSophia`,defaultMessage:`Sophia plan`}})}));export{r as n,i as t};
+//# sourceMappingURL=283e0bfb-3g0k3lgh4dm98qtb.js.map
