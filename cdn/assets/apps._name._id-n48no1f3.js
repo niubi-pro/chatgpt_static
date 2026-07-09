@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-nfv3yx8yna1zxcro.js";import{n as t,r as n,t as r}from"./5fec77d9-lfs45uhz78llc09b.js";e((()=>{n()}))();export{t as clientLoader,r as default};
-//# sourceMappingURL=apps._name._id-n48no1f3.js.map

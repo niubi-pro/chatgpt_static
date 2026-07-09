@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-nfv3yx8yna1zxcro.js";import{ZQ as t,_$ as n}from"./4813494d-dztdnnincqmiifjx.js";function r(e){let[t,n,r]=e.split(`-`).map(Number);return new Date(t,n-1,r)}function i(e){return n(e,a)}var a,o=e((()=>{t(),a=`y-MM-dd`}));export{o as n,r,i as t};
-//# sourceMappingURL=dbe1f625-kc61v125356ru973.js.map
