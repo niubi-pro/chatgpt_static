@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-nfv3yx8yna1zxcro.js";import{Bvt as t,Rvt as n}from"./4813494d-cqyorw23qv85971y.js";function r(e){if(!t(e))return;let n=`library_file_id`in e?e.library_file_id:void 0;return typeof n==`string`&&n.length>0?n:void 0}var i=e((()=>{n()}));export{i as n,r as t};
-//# sourceMappingURL=175f5b52-gu6bse0u2c1eautk.js.map

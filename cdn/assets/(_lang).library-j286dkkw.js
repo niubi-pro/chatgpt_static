@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-nfv3yx8yna1zxcro.js";import{a as t,i as n,n as r,o as i,r as a,t as o}from"./34532799-nmqjib0h2ibawql9.js";e((()=>{n()}))();export{r as clientLoader,o as default,a as handle,t as meta,i as shouldRevalidate};
-//# sourceMappingURL=(_lang).library-j286dkkw.js.map

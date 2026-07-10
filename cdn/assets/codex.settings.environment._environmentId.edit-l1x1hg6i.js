@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-nfv3yx8yna1zxcro.js";import{t}from"./26501f9f-iu3hxca2kutxsxwe.js";var n=e((()=>{}));e((()=>{n()}))();export{t as clientLoader};
-//# sourceMappingURL=codex.settings.environment._environmentId.edit-l1x1hg6i.js.map

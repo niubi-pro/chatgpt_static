@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-eouulriwnhws0hjx.js";import{i as t,n,r,t as i}from"./48eff304-njwfvfv35pg3uimu.js";var a=e((()=>{t(),n()}));e((()=>{a()}))();export{i as clientLoader,r as default};
+//# sourceMappingURL=gifts.credits_.claim._claimCode-cdje5jbu.js.map

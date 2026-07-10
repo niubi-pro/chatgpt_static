@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-eouulriwnhws0hjx.js";import{N as t,dt as n,ft as r}from"./2340486e-c1x3gcquhqwybln0.js";import{n as i,t as a}from"./9bfdcf20-dapjoy2leipzcqrz.js";var o,s,c=e((()=>{t(),i(),o=n(function(){"use forget";return null}),s=r(a)}));e((()=>{c()}))();export{s as ErrorBoundary,o as default};
+//# sourceMappingURL=(_lang).soccer-igzwdk28.js.map
