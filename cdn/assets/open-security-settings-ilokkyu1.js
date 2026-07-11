@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-eouulriwnhws0hjx.js";import{N as t,dt as n}from"./2340486e-c1x3gcquhqwybln0.js";import{n as r,t as i}from"./85299807-mvfw49xsrw58d41t.js";var a,o=e((()=>{t(),i(),a=n(r)}));e((()=>{o()}))();export{a as default};
-//# sourceMappingURL=open-security-settings-ilokkyu1.js.map
