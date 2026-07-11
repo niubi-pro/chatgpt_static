@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-eouulriwnhws0hjx.js";import{n as t,r as n}from"./d9c77c9b-d7bk4trq6imbt9bj.js";e((()=>{n()}))();export{t as default};
-//# sourceMappingURL=create-workspace-g76re5du.js.map

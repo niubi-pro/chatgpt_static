@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-eouulriwnhws0hjx.js";import{i as t,n,r,t as i}from"./4813494d-pa9dkze3y3fvf9gz.js";e((()=>{i()}))();export{r as default,n as meta,t as shouldRevalidate};
-//# sourceMappingURL=root-jmdeghok.js.map
