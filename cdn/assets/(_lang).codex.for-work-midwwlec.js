@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-nohxu7rfv8lngty8.js";import{N as t,dt as n,ft as r}from"./2340486e-paw9kisf3ovbcci4.js";import{n as i,t as a}from"./9bfdcf20-dqlmlprrzf4shqpk.js";var o,s,c=e((()=>{t(),i(),o=n(function(){"use forget";return null}),s=r(a)}));e((()=>{c()}))();export{s as ErrorBoundary,o as default};
-//# sourceMappingURL=(_lang).codex.for-work-midwwlec.js.map

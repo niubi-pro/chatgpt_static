@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-nohxu7rfv8lngty8.js";import{i as t,n,r,t as i}from"./4813494d-obgzzm3xmisjwiob.js";e((()=>{i()}))();export{r as default,n as meta,t as shouldRevalidate};
+//# sourceMappingURL=root-m4cgwzcp.js.map

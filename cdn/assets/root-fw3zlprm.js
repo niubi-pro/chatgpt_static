@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-nohxu7rfv8lngty8.js";import{i as t,n,r,t as i}from"./4813494d-g68rqd2ygr1cea44.js";e((()=>{i()}))();export{r as default,n as meta,t as shouldRevalidate};
-//# sourceMappingURL=root-fw3zlprm.js.map
