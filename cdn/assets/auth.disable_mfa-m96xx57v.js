@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-kdsvsrm9ijr796ne.js";import{GK as n,nq as r,tq as i}from"./4813494d-l2qppef9tkwaz2nr.js";import{Ht as a,N as o,Ut as s,dt as c,it as l}from"./2340486e-mb21rh7fsts2xmrh.js";var u,d,f,p=e((()=>{o(),r(),u=t(s()),d=a(),f=c(function(){let e=l();return(0,u.useEffect)(()=>{e({...i(n.Security),pathname:`/`,search:`disable_mfa=true`})},[e]),(0,d.jsx)(d.Fragment,{})})}));e((()=>{p()}))();export{f as default};
-//# sourceMappingURL=auth.disable_mfa-m96xx57v.js.map

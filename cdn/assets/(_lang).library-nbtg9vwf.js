@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-nohxu7rfv8lngty8.js";import{a as t,i as n,n as r,o as i,r as a,t as o}from"./34532799-l5f9kh3n6yc0924h.js";e((()=>{n()}))();export{r as clientLoader,o as default,a as handle,t as meta,i as shouldRevalidate};
+//# sourceMappingURL=(_lang).library-nbtg9vwf.js.map

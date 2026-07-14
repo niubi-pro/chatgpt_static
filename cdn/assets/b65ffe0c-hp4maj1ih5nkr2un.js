@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-nohxu7rfv8lngty8.js";import{mt as n}from"./2340486e-paw9kisf3ovbcci4.js";function r(){return o||(o=document.createElement(`div`),o.setAttribute(`portal-container`,``),document.body.append(o)),o||null}function i(e){let{children:t}=e,n=r();return n&&a.createPortal(t,n)}var a,o,s=e((()=>{a=t(n()),o=null}));export{s as n,i as t};
+//# sourceMappingURL=b65ffe0c-hp4maj1ih5nkr2un.js.map

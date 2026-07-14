@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-kdsvsrm9ijr796ne.js";function t(e,t){let n=document.createElement(`a`);n.href=e,n.rel=`noopener`,n.target=`_blank`,t&&(n.download=t),document.body.appendChild(n),n.click(),document.body.removeChild(n)}var n=e((()=>{}));export{n,t};
-//# sourceMappingURL=14bfa043-lqxhg2vh2tsa2u6a.js.map

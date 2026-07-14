@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-kdsvsrm9ijr796ne.js";import{i as t,n,r,t as i}from"./4813494d-l2qppef9tkwaz2nr.js";e((()=>{i()}))();export{r as default,n as meta,t as shouldRevalidate};
-//# sourceMappingURL=root-nizfs4ck.js.map
