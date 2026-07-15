@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-nohxu7rfv8lngty8.js";function t(e,t){return i.exec(e)?.[1]===t}function n(e){return t(e,`file`)}function r(e){return t(e,`folder`)}var i,a=e((()=>{i=/^external-[a-z0-9][a-z0-9-]*:(file|folder):\S+$/}));export{n,r,a as t};
+//# sourceMappingURL=2032bdfc-y3k39pxqaorklwq1.js.map

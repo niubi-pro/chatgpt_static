@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-nohxu7rfv8lngty8.js";import{P as t,ft as n}from"./2340486e-i94pm3kv3z1ngaiv.js";var r,i=e((()=>{t(),r=n(function(){"use forget";return null})}));e((()=>{i()}))();export{r as default};
+//# sourceMappingURL=(_lang).images_.i._slug-fp7k1z3v.js.map

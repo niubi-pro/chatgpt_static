@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-nohxu7rfv8lngty8.js";import{bM as t,fM as n,mM as r}from"./4813494d-n80qxxy3ebindl2e.js";function i(e){return e==null?!1:t(e)}function a(e,t=n()){if(e==null||!i(e)||e.safety_check_status===`approved`)return null;let r=e.safety_scan?.risk_score;return typeof r!=`number`||Number.isNaN(r)?null:r>=t.minBlockedSafetyScore?`blocked`:r>=t.minWarningSafetyScore?`needsReview`:null}var o=e((()=>{r()}));export{o as n,a as t};
+//# sourceMappingURL=8f504e8b-mynwpsp7g6nswqxa.js.map

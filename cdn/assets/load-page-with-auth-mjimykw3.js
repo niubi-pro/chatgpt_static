@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-nohxu7rfv8lngty8.js";import{P as n,Wt as r,at as i,ft as a,tt as o,xt as s}from"./2340486e-i94pm3kv3z1ngaiv.js";var c,l,u,d=e((()=>{n(),c=s(),l=t(r()),u=a(function(){"use forget";let e=(0,c.c)(5),t=o(),n=i(),[r,a]=(0,l.useState)(!1),s,u;return e[0]!==t.toPath||e[1]!==r||e[2]!==n?(s=()=>{r||(n(t.toPath,{replace:!0}),a(!0))},u=[r,t.toPath,n],e[0]=t.toPath,e[1]=r,e[2]=n,e[3]=s,e[4]=u):(s=e[3],u=e[4]),(0,l.useEffect)(s,u),null})}));e((()=>{d()}))();export{u as default};
+//# sourceMappingURL=load-page-with-auth-mjimykw3.js.map

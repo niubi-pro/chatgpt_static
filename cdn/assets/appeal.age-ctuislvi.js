@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-nohxu7rfv8lngty8.js";import{N as t,dt as n}from"./2340486e-paw9kisf3ovbcci4.js";var r,i=e((()=>{t(),r=n(function(){return null})}));e((()=>{i()}))();export{r as default};
-//# sourceMappingURL=appeal.age-ctuislvi.js.map
