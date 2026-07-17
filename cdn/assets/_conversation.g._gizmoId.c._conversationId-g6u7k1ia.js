@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-nohxu7rfv8lngty8.js";import{P as t,ft as n}from"./2340486e-i94pm3kv3z1ngaiv.js";var r,i,a=e((()=>{t(),r=()=>null,i=n(function(){"use forget";return null})}));e((()=>{a()}))();export{r as clientLoader,i as default};
-//# sourceMappingURL=_conversation.g._gizmoId.c._conversationId-g6u7k1ia.js.map

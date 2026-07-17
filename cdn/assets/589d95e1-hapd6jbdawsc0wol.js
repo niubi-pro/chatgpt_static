@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-nohxu7rfv8lngty8.js";import{GAt as t,HAt as n,VAt as r}from"./4813494d-n80qxxy3ebindl2e.js";import{n as i,t as a}from"./a4ef6b63-gi3ui48a8ef4owe0.js";function o(e,{params:n,title:i}){return t(a,{clientThreadId:e,title:i,viewParams:n,onComplete:()=>r(a),onDismiss:()=>r(a)}),Promise.resolve()}var s=e((()=>{n(),i()}));export{o as n,s as t};
-//# sourceMappingURL=589d95e1-hapd6jbdawsc0wol.js.map

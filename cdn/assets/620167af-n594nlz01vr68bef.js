@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-nohxu7rfv8lngty8.js";import{Bxt as t,Ixt as n}from"./4813494d-n80qxxy3ebindl2e.js";import{Ht as r,Ut as i,Vt as a}from"./2340486e-i94pm3kv3z1ngaiv.js";import{n as o,r as s}from"./b453068a-dapqcby8qbfhjvku.js";function c({className:e=`h-10 w-10`}){let n=r(),{iconUrl:i}=o({isDarkMode:t()});return(0,l.jsx)(`img`,{src:i,alt:n.formatMessage({id:`codex-app.icon.alt`,defaultMessage:`Codex app icon`}),className:e,"aria-hidden":!0})}var l,u=e((()=>{n(),a(),s(),l=i()}));export{u as n,c as t};
-//# sourceMappingURL=620167af-n594nlz01vr68bef.js.map

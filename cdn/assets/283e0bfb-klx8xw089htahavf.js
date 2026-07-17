@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-iptl9rhcr4o1e8ss.js";import{Bt as t,zt as n}from"./2340486e-mv6mwwnc1v5j1b2x.js";var r,i=e((()=>{t(),r=n({planName:{id:`CheckoutSummary.sophiaPlanName`,defaultMessage:`Academic Researcher`},heading:{id:`CheckoutSummary.headingSophia`,defaultMessage:`Academic Researcher plan`}})}));export{r as n,i as t};
+//# sourceMappingURL=283e0bfb-klx8xw089htahavf.js.map

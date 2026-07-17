@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-iptl9rhcr4o1e8ss.js";import{n as t,r as n}from"./cff09cfe-mys7m9pciq5avbz8.js";e((()=>{t()}))();export{n as default};
+//# sourceMappingURL=k12-create-workspace-olazo64x.js.map

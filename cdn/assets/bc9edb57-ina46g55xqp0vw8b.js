@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-iptl9rhcr4o1e8ss.js";import{bt as t}from"./2340486e-mv6mwwnc1v5j1b2x.js";function n(e){"use forget";let t=(0,r.c)(2),n;return t[0]===e?n=t[1]:(n=t=>{if(t==null||e==null)return;let n,r=window.setTimeout(()=>{n=new IntersectionObserver(t=>{let[r]=t;!r.isIntersecting||r.intersectionRatio<.5||(e(),n?.disconnect())},{threshold:.5}),n.observe(t)},i);return()=>{window.clearTimeout(r),n?.disconnect()}},t[0]=e,t[1]=n),n}var r,i,a=e((()=>{r=t(),i=250}));export{n,a as t};
+//# sourceMappingURL=bc9edb57-ina46g55xqp0vw8b.js.map

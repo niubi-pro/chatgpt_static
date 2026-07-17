@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-iptl9rhcr4o1e8ss.js";import{a as t,i as n,n as r,o as i,r as a,t as o}from"./34532799-kfnvt2kj6pqa0arr.js";e((()=>{n()}))();export{r as clientLoader,o as default,a as handle,t as meta,i as shouldRevalidate};
+//# sourceMappingURL=(_lang).library-norybo42.js.map
