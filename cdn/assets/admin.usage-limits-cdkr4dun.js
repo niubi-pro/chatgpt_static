@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-iptl9rhcr4o1e8ss.js";import{n as t,t as n}from"./90a39c8d-is3ow7ymfxwztawj.js";e((()=>{t()}))();export{n as default};
-//# sourceMappingURL=admin.usage-limits-cdkr4dun.js.map

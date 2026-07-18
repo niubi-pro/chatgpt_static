@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-iptl9rhcr4o1e8ss.js";import{Bt as t,zt as n}from"./2340486e-mv6mwwnc1v5j1b2x.js";var r,i=e((()=>{t(),r=n({openFeedback:{id:`codeBlocks.feedback.button`,defaultMessage:`Give feedback`},popupAriaLabel:{id:`codeBlocks.visualizationFeedback.popupAriaLabel`,defaultMessage:`Give feedback`}})}));export{i as n,r as t};
-//# sourceMappingURL=62145d23-n99x40o78mm5mnv3.js.map

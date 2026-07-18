@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-iptl9rhcr4o1e8ss.js";import{N as n,Ut as r,bt as i,dt as a,et as o,it as s}from"./2340486e-mv6mwwnc1v5j1b2x.js";var c,l,u,d=e((()=>{n(),c=i(),l=t(r()),u=a(function(){"use forget";let e=(0,c.c)(5),t=o(),n=s(),[r,i]=(0,l.useState)(!1),a,u;return e[0]!==t.toPath||e[1]!==r||e[2]!==n?(a=()=>{r||(n(t.toPath,{replace:!0}),i(!0))},u=[r,t.toPath,n],e[0]=t.toPath,e[1]=r,e[2]=n,e[3]=a,e[4]=u):(a=e[3],u=e[4]),(0,l.useEffect)(a,u),null})}));e((()=>{d()}))();export{u as default};
-//# sourceMappingURL=load-page-with-auth-czylsin2.js.map

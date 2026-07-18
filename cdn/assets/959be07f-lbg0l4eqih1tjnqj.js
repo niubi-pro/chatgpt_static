@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-iptl9rhcr4o1e8ss.js";import{XFt as t,eIt as n}from"./4813494d-eamos3dhhvrmpqs1.js";import{g as r,u as i}from"./2340486e-mv6mwwnc1v5j1b2x.js";function a(){return r({queryKey:[`sophia-promo-code`],queryFn:async()=>o(`/promotions/sci`,{})})}var o,s=e((()=>{n(),i(),o=t.safeGet.bind(t)}));export{s as n,a as t};
-//# sourceMappingURL=959be07f-lbg0l4eqih1tjnqj.js.map
