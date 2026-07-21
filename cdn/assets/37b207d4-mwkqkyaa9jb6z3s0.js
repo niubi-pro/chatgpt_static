@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-pa53a73t48eqtlq2.js";import{sQt as t,uQt as n}from"./4813494d-fwc98srcx5jfpxqd.js";function r(e){return e?.isUsageBasedSeatEnabled??!1}function i(){let e=t(a);return{perEligibleInviteNumCredits:e.get(`per_eligible_invite_num_credits`,0),maxTotalNumCredits:e.get(`max_total_num_credits`,0)}}var a,o=e((()=>{n(),a=`2558204672`}));export{r as n,i as r,o as t};
+//# sourceMappingURL=37b207d4-mwkqkyaa9jb6z3s0.js.map

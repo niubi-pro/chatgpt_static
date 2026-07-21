@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-pa53a73t48eqtlq2.js";import{N as n,Wt as r,tt as i,xt as a}from"./2340486e-i4b839otgjgqarcp.js";import{o,r as s}from"./3ab6f2a5-et2x5onco28gbr5q.js";function c(){o()}var l,u,d,f=e((()=>{l=a(),u=t(r()),n(),s(),d=()=>{"use forget";let e=(0,l.c)(4),t=i(),n;return e[0]!==t.hash||e[1]!==t.pathname||e[2]!==t.search?(n=[t.hash,t.pathname,t.search],e[0]=t.hash,e[1]=t.pathname,e[2]=t.search,e[3]=n):n=e[3],(0,u.useEffect)(c,n),null}}));export{f as n,d as t};
-//# sourceMappingURL=de7d7381-ogdsvq85m9se8pw0.js.map

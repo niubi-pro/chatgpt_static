@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-pa53a73t48eqtlq2.js";import{Jnt as t,Ynt as n}from"./4813494d-fwc98srcx5jfpxqd.js";import{i as r,r as i}from"./26f1de33-cuai3ahg8u8jz0n4.js";var a,o=e((()=>{n(),r(),a=class extends i{unistNodeName(){return`text`}static proseMirrorNodeName(){return`text`}proseMirrorNodeSpec(){return{group:`inline`}}unistNodeToProseMirrorNodes({node:e,schema:n,attrs:r}){return t(e,n,r)}proseMirrorNodeToUnistNodes(e){return[{type:this.unistNodeName(),value:e.text??``}]}}}));export{o as n,a as t};
+//# sourceMappingURL=982d9e3e-cubr5pi5bmlajg5g.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-pa53a73t48eqtlq2.js";import{let as t,uet as n}from"./4813494d-fwc98srcx5jfpxqd.js";function r(e){return e.type===`element`}function i(e){return r(e)?e.tagName===`code`:!1}function a(){return function(e){n(e,`element`,function(e,t,n){i(e)&&(n&&r(n)&&n.tagName===`pre`?e.properties.inline=!1:e.properties.inline=!0)})}}var o=e((()=>{t()}));export{a as n,o as t};
+//# sourceMappingURL=e87af100-h837lyk0y15a7h7r.js.map

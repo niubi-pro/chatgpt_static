@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-pa53a73t48eqtlq2.js";import{AQt as t,EQt as n,g$t as r,kQt as i,m$t as a}from"./4813494d-fwc98srcx5jfpxqd.js";var o,s=e((()=>{r(),i(),o=e=>{switch(e.type){case`hist`:return t.hist(n.WEB_SANDBOX,e.label,e.tags,e.value);case`count`:return t.count(n.WEB_SANDBOX,e.label,e.tags,e.count);case`error`:return a.addError(e.error);default:break}}}));export{s as n,o as t};
+//# sourceMappingURL=3509739a-ewkiqstdyphqbqh5.js.map

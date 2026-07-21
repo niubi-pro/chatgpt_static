@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-pa53a73t48eqtlq2.js";import{j as t,lt as n}from"./2340486e-dndlwhxa5s7p8x6d.js";var r,i=e((()=>{t(),r=n(function(){"use forget";return null})}));e((()=>{i()}))();export{r as default};
+//# sourceMappingURL=create-free-workspace-cykoyaw8.js.map

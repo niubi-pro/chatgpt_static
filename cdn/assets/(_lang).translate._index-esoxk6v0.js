@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-pa53a73t48eqtlq2.js";import{a as t,i as n,o as r,r as i,t as a}from"./736c8393-n90y88kqbg9d280w.js";e((()=>{t()}))();export{a as ErrorBoundary,i as default,n as handle,r as meta};
+//# sourceMappingURL=(_lang).translate._index-esoxk6v0.js.map

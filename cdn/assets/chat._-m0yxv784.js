@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-pa53a73t48eqtlq2.js";import{Wt as n,j as r,lt as i,nt as a}from"./2340486e-dndlwhxa5s7p8x6d.js";var o,s,c=e((()=>{r(),o=t(n()),s=i(function(){let e=(0,o.useRef)(!1),t=a();return(0,o.useEffect)(()=>{e.current||(e.current=!0,t(`/`,{replace:!0}))},[t]),null})}));e((()=>{c()}))();export{s as default};
+//# sourceMappingURL=chat._-m0yxv784.js.map

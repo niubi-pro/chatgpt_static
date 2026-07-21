@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-pa53a73t48eqtlq2.js";import{Wt as n}from"./2340486e-i4b839otgjgqarcp.js";function r(e,t){let n=[],r={};return i.Children.forEach(e,e=>{if(!i.isValidElement(e)){n.push(e);return}let a=!1;for(let n of Object.keys(t))(e.type?.extends??e.type)===t[n]&&(r[n]=e,a=!0);a||n.push(e)}),{...r,children:n}}var i,a=e((()=>{i=t(n())}));export{a as n,r as t};
-//# sourceMappingURL=540191af-k2z7lv269kqs27z3.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-pa53a73t48eqtlq2.js";import{Ut as t,j as n,lt as r}from"./2340486e-dndlwhxa5s7p8x6d.js";import{a as i,o as a}from"./8b34dbc2-j38e25ikkan72qkk.js";var o,s,c,l=e((()=>{n(),a(),o=t(),s=()=>[{title:`New Tab`}],c=r(function(){return(0,o.jsx)(i,{})})}));e((()=>{l()}))();export{c as default,s as meta};
+//# sourceMappingURL=new-tab-page-mgcd6wet.js.map
