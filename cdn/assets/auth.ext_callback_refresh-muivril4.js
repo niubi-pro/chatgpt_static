@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-pa53a73t48eqtlq2.js";import{Wt as n,ct as r,j as i,lt as a,nt as o}from"./2340486e-dndlwhxa5s7p8x6d.js";var s,c,l=e((()=>{i(),s=t(n()),c=a(function(){let e=o(),[t]=r(),n=t.get(`next`),i=n!=null&&n.startsWith(`/`)&&!n.startsWith(`//`)?n:`/`;return(0,s.useEffect)(()=>{e(i)},[i,e]),null})}));e((()=>{l()}))();export{c as default};
-//# sourceMappingURL=auth.ext_callback_refresh-muivril4.js.map

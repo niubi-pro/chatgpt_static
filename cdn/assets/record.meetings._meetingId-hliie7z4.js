@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-pa53a73t48eqtlq2.js";import{j as t,lt as n}from"./2340486e-dndlwhxa5s7p8x6d.js";import{n as r,t as i}from"./23f34471-erulk3efr1rx8oja.js";var a,o,s=e((()=>{t(),i(),a=({request:e})=>{r(e)},o=n(function(){"use forget";return null})}));e((()=>{s()}))();export{a as clientLoader,o as default};
-//# sourceMappingURL=record.meetings._meetingId-hliie7z4.js.map

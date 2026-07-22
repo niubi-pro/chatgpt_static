@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-pa53a73t48eqtlq2.js";import{Q as t,Ut as n,j as r,lt as i,xt as a}from"./2340486e-dndlwhxa5s7p8x6d.js";var o,s,c=e((()=>{r(),o=a(),n(),s=i(function(){"use forget";(0,o.c)(7);let{grant:e,error:n}=t();return null})}));e((()=>{c()}))();export{s as default};
-//# sourceMappingURL=meeting_bot.dev-fternan4.js.map

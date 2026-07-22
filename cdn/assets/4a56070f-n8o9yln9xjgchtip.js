@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-mz1ctq4rgeubsr86.js";var t,n=e((()=>{t=({mode:e,onSelectFiles:t})=>{let n=document.createElement(`input`);n.type=`file`,n.multiple=!0,n.className=`hidden`,e===`folder`&&n.setAttribute(`webkitdirectory`,`true`),n.onchange=()=>{let e=n.files;document.body.removeChild(n),!(e==null||e.length===0)&&t(Array.from(e))},document.body.appendChild(n),n.click()}}));export{t as n,n as t};
+//# sourceMappingURL=4a56070f-n8o9yln9xjgchtip.js.map

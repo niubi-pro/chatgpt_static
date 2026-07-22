@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-mz1ctq4rgeubsr86.js";import{Wt as n,j as r,lt as i,nt as a}from"./2340486e-ni1pln8xn96fj9kd.js";var o,s,c=e((()=>{r(),o=t(n()),s=i(function(){let e=(0,o.useRef)(!1),t=a();return(0,o.useEffect)(()=>{e.current||(e.current=!0,t(`/`,{replace:!0}))},[t]),null})}));e((()=>{c()}))();export{s as default};
+//# sourceMappingURL=chat._-fukac543.js.map

@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-pa53a73t48eqtlq2.js";import{Wt as n}from"./2340486e-dndlwhxa5s7p8x6d.js";var r,i,a=e((()=>{r=t(n()),i=(0,r.createContext)({allowDependencyNetworkRequestsWithoutCanvasAccess:!1})}));export{a as n,i as t};
-//# sourceMappingURL=de6a4d0c-dz8p6rzftesp5p94.js.map

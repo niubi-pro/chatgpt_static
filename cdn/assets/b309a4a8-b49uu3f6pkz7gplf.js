@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-pa53a73t48eqtlq2.js";import{Ik as t}from"./4813494d-fwc98srcx5jfpxqd.js";function n(e,t){return t===`deep_research_report`||e===`ready`||t===`writing_block`&&(e===`created`||e===`indexing`)?`available`:e===`failed`?`failed`:`unavailable`}var r=e((()=>{t()}));export{r as n,n as t};
-//# sourceMappingURL=b309a4a8-b49uu3f6pkz7gplf.js.map

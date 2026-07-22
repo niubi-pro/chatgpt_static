@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-pa53a73t48eqtlq2.js";import{j as t,lt as n,ut as r}from"./2340486e-dndlwhxa5s7p8x6d.js";import{n as i,t as a}from"./9bfdcf20-eyr0v4zlsg24bk62.js";var o,s,c=e((()=>{t(),i(),o=n(function(){"use forget";return null}),s=r(a)}));e((()=>{c()}))();export{s as ErrorBoundary,o as default};
-//# sourceMappingURL=(_lang).soccer_._countrySlug-l11mo1zi.js.map
