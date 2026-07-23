@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{eq as t,iq as n}from"./4813494d-dt18kj98823ppnej.js";import{Ct as r,W as i,ot as a}from"./2340486e-ochsjnnr5ckjjz3o.js";function o(e){return`${t}${new URL(e.url).search}`}var s,c,l=e((()=>{i(),n(),s=({request:e})=>{throw a(o(e))},c=r(function(){"use forget";return null})}));e((()=>{l()}))();export{s as clientLoader,c as default};
+//# sourceMappingURL=mattress-hy6yjqc4.js.map

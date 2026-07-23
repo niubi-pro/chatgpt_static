@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-mz1ctq4rgeubsr86.js";var t,n,r,i=e((()=>{t=`https://help.openai.com/en/articles/10847137`,n=`https://help.openai.com/en/articles/10929079`,r=`https://help.openai.com/en/articles/10847137-internal-knowledge-on-chatgpt-faq#h_cdbef125bf`}));export{i,t as n,n as r,r as t};
-//# sourceMappingURL=7517017f-me97vwkk13fza61f.js.map

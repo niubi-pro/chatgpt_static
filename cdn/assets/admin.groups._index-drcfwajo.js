@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-mz1ctq4rgeubsr86.js";import{Ut as t,j as n,lt as r}from"./2340486e-ni1pln8xn96fj9kd.js";import{n as i,t as a}from"./8c6976e5-eqlk574c8iug7d0x.js";import{n as o,t as s}from"./16d1957c-i6udkb1g79w9krw2.js";var c,l,u=e((()=>{n(),o(),a(),c=t(),l=r(function(){return(0,c.jsx)(s,{...i()})})}));e((()=>{u()}))();export{l as default};
-//# sourceMappingURL=admin.groups._index-drcfwajo.js.map

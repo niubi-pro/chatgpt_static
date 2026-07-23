@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-mz1ctq4rgeubsr86.js";import{UK as t,zK as n}from"./4813494d-jrwxsf8zjr329eup.js";import{K as r,j as i,lt as a}from"./2340486e-ni1pln8xn96fj9kd.js";function o(e){return`${n}${new URL(e.url).search}`}var s,c,l=e((()=>{i(),t(),s=({request:e})=>{throw r(o(e))},c=a(function(){"use forget";return null})}));e((()=>{l()}))();export{s as clientLoader,c as default};
-//# sourceMappingURL=mattress-iuph09w4.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";function t(e,t){if(e==null)return!1;let n=s.exec(e);return n!=null&&(n[2]??`root`)===t}function n(e){return e==null?null:s.exec(e)?.[1]??null}function r(e){return t(e,`root`)}function i(e){return t(e,`file`)}function a(e){return t(e,`folder`)}function o(e){return r(e)||a(e)}var s,c=e((()=>{s=/^external-([a-z0-9][a-z0-9-]*):(?:(file|folder):(\S+)|root)$/}));export{a,i,c as n,r as o,o as r,n as t};
+//# sourceMappingURL=2032bdfc-gd7k4a7nvjpq429l.js.map

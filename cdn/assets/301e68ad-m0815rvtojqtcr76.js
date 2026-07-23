@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";function t({data:e,mimeType:t,filename:n}){let r=document.createElement(`a`);r.href=`data:${t},${encodeURIComponent(e)}`,r.target=`_self`,r.download=n,r.click(),r.remove()}var n=e((()=>{}));export{n,t};
+//# sourceMappingURL=301e68ad-m0815rvtojqtcr76.js.map
