@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{s as t,w as n}from"./2340486e-dyt4epctwx2pn2sj.js";import{Cf as r,Ef as i,Tf as a}from"./c2675c8c-k2kd9yafbfvx5mjw.js";import{i as o,r as s}from"./d9eea531-i0smtw6tcxt9zcka.js";var c,l=e((()=>{t(),i(),s(),c=e=>n({queryKey:a(`workspace-links`,e),queryFn:({signal:t})=>o(e,t),enabled:e!==``,staleTime:r,retry:!1})}));export{l as n,c as t};
+//# sourceMappingURL=db89e562-d4o7d6jgqm5cvq0z.js.map
