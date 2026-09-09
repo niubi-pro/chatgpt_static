@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{aIt as t,fIt as n}from"./conversation-small-k27lztj6v5lipech.js";var r,i=e((()=>{n(),r=e=>e===t.SlackDelegationFallback||e===t.MicrosoftTeamsDelegationFallback}));export{r as n,i as t};
+//# sourceMappingURL=687cdb9d-k0k5k9d9ahnskkoy.js.map
