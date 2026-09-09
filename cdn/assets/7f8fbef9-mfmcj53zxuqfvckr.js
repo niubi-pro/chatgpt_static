@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{KG as t,UG as n}from"./4813494d-e0hjx102gn5zjvdh.js";function r(){return n()?.isSelfServeBusiness()??!1}function i(){return!r()}var a=e((()=>{t()}));export{i as n,a as t};
-//# sourceMappingURL=7f8fbef9-mfmcj53zxuqfvckr.js.map
