@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{IH as t,LH as n}from"./4813494d-ilaxclpwvg5i0e40.js";import{JAn as r,WAn as i}from"./conversation-small-ng27r04netsz3e4o.js";function a(e){return`/?${new URLSearchParams({surface:t.TPP,[i]:`site`,prompt:e}).toString()}`}var o=e((()=>{r(),n()}));export{o as n,a as t};
+//# sourceMappingURL=7e73986a-elovi3etq4u6gm3n.js.map
