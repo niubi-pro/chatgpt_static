@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{i as t,n,r,t as i}from"./4813494d-c6b4nsqqwi13e6rd.js";e((()=>{i()}))();export{r as default,n as meta,t as shouldRevalidate};
+//# sourceMappingURL=root-ebaxetdo.js.map
