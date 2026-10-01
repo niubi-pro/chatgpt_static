@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{MV as t,OV as n}from"./4813494d-3e5w5vsfb6ckbdn1.js";import{$ as r,Gt as i}from"./2340486e-hoctnyuhtrgq7c13.js";var a,o,s=e((()=>{r(),t(),a=n,o=i(function(){"use forget";return null})}));e((()=>{s()}))();export{o as default,a as meta};
-//# sourceMappingURL=g.health-jymbqgsz.js.map

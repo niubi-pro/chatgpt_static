@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{C$ as t,Dat as n,Eat as r,Oat as i,Q3 as a,R$ as o,T$ as s,Z3 as c,kat as l}from"./4813494d-jbulluaz2o4ymmbl.js";function u(){let e=t();return d()&&!e.isError&&s()?.data.orbitAvailable===!0}var d,f=e((()=>{c(),o(),n(),d=a(()=>!i()&&r()?.user?.id!=null,l)}));export{u as n,f as t};
+//# sourceMappingURL=b2cbd5c7-h4e1937nwv4xgbe2.js.map
