@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Got as t,Mat as n,aot as r,jat as i}from"./4813494d-jbulluaz2o4ymmbl.js";function a(e){return e.some(e=>e.isEnterprisey()&&!e.isQuorum())}function o(){return i().session?.account?.structure===r.WORKSPACE}var s=e((()=>{t(),n()}));export{s as n,o as r,a as t};
-//# sourceMappingURL=5d04b0af-e4a2defpzrkz6fr9.js.map
