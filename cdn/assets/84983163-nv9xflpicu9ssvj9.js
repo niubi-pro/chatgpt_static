@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{c as t,t as n}from"./25a66342-c7vnqox1a4hlhy3o.js";var r,i=e((()=>{n(),r=async(e,n,r=[])=>{let{api:i}=await t({iframe:e,origin:new URL(e.src).origin,host:n,signal:void 0,generatorKeys:r});return i}}));export{i as n,r as t};
-//# sourceMappingURL=84983163-nv9xflpicu9ssvj9.js.map
