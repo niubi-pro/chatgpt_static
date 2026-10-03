@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{$ as t,Kt as n}from"./2340486e-fjhppe5kgy0c0p77.js";var r,i=e((()=>{t(),r=n(function(){"use forget";return null})}));e((()=>{i()}))();export{r as default};
+//# sourceMappingURL=ask.writing-bjz5k1zi.js.map
