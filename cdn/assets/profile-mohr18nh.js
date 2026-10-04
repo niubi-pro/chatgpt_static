@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{n as t,r as n,t as r}from"./1900eab6-ou1k0qfi0hcrc3um.js";e((()=>{t()}))();export{r as ErrorBoundary,n as default};
-//# sourceMappingURL=profile-mohr18nh.js.map

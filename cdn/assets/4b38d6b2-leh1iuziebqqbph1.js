@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{TCt as t,yCt as n}from"./conversation-small-ig1392ugx3eo129o.js";function r(e){let t=e.address?e.name?`${e.name}, ${e.address}`:e.address:`${e.latitude},${e.longitude}`,r=new URLSearchParams({api:`1`,destination:t}),i=new URL(n(`https://www.google.com/maps/dir/?${r.toString()}`));return i.search=i.searchParams.toString().replaceAll(`%7E`,`~`).replaceAll(`*`,`%2A`),i.toString()}var i=e((()=>{t()}));export{i as n,r as t};
+//# sourceMappingURL=4b38d6b2-leh1iuziebqqbph1.js.map

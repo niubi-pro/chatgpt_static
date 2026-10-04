@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{i as t,n,r}from"./101e3679-mq1i2pjt57s24kbh.js";e((()=>{t()}))();export{r as clientLoader,n as default};
-//# sourceMappingURL=checkout._entity._checkoutId-iujwkcnp.js.map

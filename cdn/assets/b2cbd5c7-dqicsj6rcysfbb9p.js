@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{K3 as t,Mat as n,Nat as r,Pat as i,T$ as a,f$ as o,jat as s,q3 as c,u$ as l}from"./4813494d-okcxqld7kfttimw4.js";function u(){let e=l();return d()&&!e.isError&&o()?.data.orbitAvailable===!0}var d,f=e((()=>{t(),a(),n(),d=c(()=>!r()&&s()?.user?.id!=null,i)}));export{u as n,f as t};
+//# sourceMappingURL=b2cbd5c7-dqicsj6rcysfbb9p.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{_W as t,bW as n,ds as r,hs as i}from"./4813494d-okcxqld7kfttimw4.js";import{Vn as a,zn as o}from"./2340486e-fjhppe5kgy0c0p77.js";function s(e){return`/?${new URLSearchParams({surface:t.TPP,[r]:`site`,prompt:e}).toString()}`}var c,l=e((()=>{a(),i(),n(),c=o({id:`sites.empty_state.create_site_prompt.with_sites_mention`,defaultMessage:`Make me a {sitesMention} about ...`})}));export{s as n,l as r,c as t};
+//# sourceMappingURL=7e73986a-je92b7kdqlnnw5uk.js.map
