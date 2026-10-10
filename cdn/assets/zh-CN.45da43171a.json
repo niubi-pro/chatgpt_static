@@ -14942,6 +14942,7 @@
   "latex.chat.document": "在 ChatGPT 中继续",
   "latex.chat.selection": "就所选内容询问 ChatGPT",
   "latex.compile.automatic": "自动编译",
+  "latex.compile.automaticSaveError": "无法保存自动编译偏好设置",
   "latex.compile.options": "编译选项",
   "latex.document.saveBeforeFollowUp.failed": "发送后续请求前，文档保存失败",
   "latex.downloads.button": "下载",
